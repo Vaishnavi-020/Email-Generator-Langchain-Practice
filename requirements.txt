@@ -1,0 +1,16 @@
+#Langchain Core 
+Langchain
+Langchain-Core
+
+ #Hugging face Integration
+ langchain-huggingface
+ transformers
+ huggingface-hub
+
+ #Env variables management
+ python-dotenv
+
+ #UI
+ Streamlit
+ 
+ pydantic
